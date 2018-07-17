@@ -93,7 +93,18 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.255</p>
                         </div>
                         <div n="comment">
-                            <p> ⁑</p>
+                            <p>ἵνα μὴ ἀπιόντεσ πάλιν εἰσ τὰσ σκηνὰσ χρονοτριβοῖεν ὁπλίζει δὲ αὐτὸν ὁ <persName n="urn:cite2:hmt:pers.v1:pers880">Θρασθμήδησ</persName>. ὡσ vεωστὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορα</persName> σώσαντα ⁑</p>
+                        </div>
+                    </div>
+                    <div n="129v_8" type="scholion">
+                        <div n="lemma">
+                            <p><num>Ζ</num></p>
+                        </div>
+                        <div n="ref">
+                            <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.255</p>
+                        </div>
+                        <div n="comment">
+                            <p>ἵνα μὴ ἀπιόντεσ πάλιν εἰσ τὰσ σκηνὰσ χρονοτριβοῖεν ὁπλίζει δὲ αὐτὸν ὁ <persName n="urn:cite2:hmt:pers.v1:pers880">Θρασθμήδησ</persName>. ὡσ vεωστὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορα</persName> σώσαντα ⁑</p>
                         </div>
                     </div>
                 </body>
