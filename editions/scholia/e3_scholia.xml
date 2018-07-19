@@ -82,7 +82,7 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.252</p>
                         </div>
                         <div n="comment">
-                            <p>παρῆλθον τῆσ νυκτὸσ αἱ δύο πλήρεισ ὧραι- οἱ δὲ\ ὅτι τὸ πλέον τῶν δύο μοιρῶν τῆσ νυκτὸσ παρῆλθεν- αἰ δύο δὲ μοῖραι. ὀ κτώ εἰσῖ ὧραι- τού τωντὸ πλέον ὅ ἐστιν αἱ ἑπτὰ, παρῆλθεν- ἐσμὲν δὲ ἐν ὀγδόηι ὥραι- λείπονται δὲ τέσσαρεσ- τὸ δὲ ὅλον οὕτωσ- παρῆλθεν ἡ πλείων ἥδη μοῖρα τῶν δύο τῆσ νυκτὸσ μοιρῶν- ἵνα λείπηται μέροσ τί τῶν δύο. καὶ τρίτη τελεία ⁑</p>
+                            <p>παρῆλθον τῆσ νυκτὸσ αἱ δύο πλήρεισ ὧραι- οἱ δὲ\ ὅτι τὸ πλέον τῶν δύο μοιρῶν τῆσ νυκτὸσ παρῆλθεν- αἰ δύο δὲ μοῖραι ὀκτώ εἰσῖ ὧραι- τούτων τὸ πλέον ὅ ἐστιν αἱ ἑπτὰ, παρῆλθεν- ἐσμὲν δὲ ἐν ὀγδόῃ ὥρᾳ- λείπονται δὲ τέσσαρεσ- τὸ δὲ ὅλον οὕτωσ- παρῆλθεν ἡ πλείων ἥδη μοῖρα τῶν δύο τῆσ νυκτὸσ μοιρῶν- ἵνα λείπηται μέροσ τί τῶν δύο. καὶ τρίτη τελεία ⁑</p>
                         </div>
                     </div>
                     <div n="129v_7" type="scholion">
@@ -93,12 +93,12 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.255</p>
                         </div>
                         <div n="comment">
-                            <p>ἵνα μὴ ἀπιόντεσ πάλιν εἰσ τὰσ σκηνὰσ χρονοτριβοῖεν ὁπλίζει δὲ αὐτὸν ὁ <persName n="urn:cite2:hmt:pers.v1:pers880">Θρασθμήδησ</persName>. ὡσ vεωστὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορα</persName> σώσαντα ⁑</p>
+                            <p>ἵνα μὴ ἀπιόντεσ πάλιν εἰσ τὰσ σκηνὰσ χρονοτριβοῖεν ὁπλίζει δὲ αὐτὸν ὁ <persName n="urn:cite2:hmt:pers.v1:pers880">Θρασθμήδησ</persName>. ὡσ νεωστὶ τὸν <persName n="urn:cite2:hmt:pers.v1:pers117">Νέστορα</persName> σώσαντα ⁑</p>
                         </div>
                     </div>
                     <div n="129v_8" type="scholion">
                         <div n="lemma">
-                            <p><num>Η</num></p>
+                            <p><num value="8">Η</num></p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.258</p>
@@ -109,7 +109,7 @@
                     </div>
                     <div n="129v_9" type="scholion">
                         <div n="lemma">
-                            <p><num>Θ</num></p>
+                            <p><num value="9">Θ</num></p>
                         </div>
                         <div n="ref">
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.259</p>
@@ -126,10 +126,11 @@
                             <p>urn:cts:greekLit:tlg0012.tlg001.msB:10.266</p>
                         </div>
                         <div n="comment">
-                            <p>τὴν μὲν κλοπὴν ἐν <placeName n="urn:cite2:hmt:place.r1:place137">Ἐλεῶνι</placeName> <choice><abbr>φη</abbr><expan>φησι</expan></choice> γενέσθαι τῆσ <persName n="urn:cite2:hmt:pers.v1:pers">Ἀμύντοροσ</persName> καταίυγοσ- <placeName n="urn:cite2:hmt:place.r1:place137">Ἐλεὼν</placeName> δὲ πόλισ τῆσ <placeName n="urn:cite2:hmt:place.r1:place30">Βοιωτίασ</placeName>- τὴν δὲ διανομὴν, ἐν <placeName n="urn:cite2:hmt:place.r1:place30">Σκανδείᾳ</placeName> πόλει <placeName n="urn:cite2:hmt:place.r1:place137">Kυθήρων</placeName> ⁑</p>
+                            <p>τὴν μὲν κλοπὴν ἐν <placeName n="urn:cite2:hmt:place.r1:place137">Ἐλεῶνι</placeName> <choice><abbr>φη</abbr><expan>φησι</expan></choice> γενέσθαι τῆσ <persName n="urn:cite2:hmt:pers.v1:pers">Ἀμύντοροσ</persName> καταίυγοσ- <placeName n="urn:cite2:hmt:place.r1:place137">Ἐλεὼν</placeName> δὲ πόλισ τῆσ <placeName n="urn:cite2:hmt:place.r1:place30">Βοιωτίασ</placeName>- τὴν δὲ διανομὴν, ἐν <placeName n="urn:cite2:hmt:place.r1:place30">Σκανδείᾳ</placeName> πόλει
+                            <placeName n="urn:cite2:hmt:place.r1:place137">Κυθήρων</placeName> ⁑</p>
                         </div>
                     </div>
-                </body>
+               </body>
             </text>
         </group>
     </text>
